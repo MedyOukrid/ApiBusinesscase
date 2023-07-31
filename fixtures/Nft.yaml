@@ -1,0 +1,4 @@
+App\Entity\Nft:
+  Nft{0..100}:
+    nom: '<name()>'
+    proprietaire: ''

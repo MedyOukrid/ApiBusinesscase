@@ -1,0 +1,10 @@
+App\Entity\Adresse:
+  adresse{0..100}:
+    ligne1: '<secondaryAddress()>'
+    ligne2: '<streetName()>'
+    ligne3: '<streetAddress()>'
+    codePostale: '<postcode()>'
+    commune: '<commune()>'
+    departement: '<department()>'
+    region: '<region()>'
+    pays: '<country()>'
